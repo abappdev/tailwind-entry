@@ -6,8 +6,8 @@ const Header = () => {
     <div className="flex justify-between">
       <div className="flex items-center justify-center gap-2">
         <img src="./assets/Logo.svg" alt="Logo" />
-        <button className="bg-gradient-to-r from-aqua-400 to-blue-500 text-white px-4 py-2 rounded-md ">
-          is hiring{" "}
+        <button className="bg-gradient-to-r from-orange-400 to-red-400 text-white px-2.5 py-1.5 rounded-3xl">
+          Hosterr is hiring{" "}
         </button>
       </div>
       <div>
